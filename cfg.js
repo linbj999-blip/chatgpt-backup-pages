@@ -1,0 +1,1 @@
+window.CFG = { SALT_B64: "Rqnqc2DVSzE7ApyaklUwrQ==", ITERATIONS: 210000, ASSETS_RAW: "https://raw.githubusercontent.com/linbj999-blip/chatgpt-backup-assets/main" };
